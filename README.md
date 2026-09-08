@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend Developer | Evolving into a Cloud & DevOps Enthusiast ☁️<br>🌱 Currently learning Cloud & DevOps<br>💬 Ask me about Laravel, Vue js,Angular Linux, or anything DevOps-related  <br>⚡ Fun fact: I enjoy automating things that save time and reduce human error  <br>📫 How to reach me: [youssefzerzeri2@gmail.com]  <br>
+🔭 Backend Developer | Evolving into a Cloud & DevOps Enthusiast ☁️<br>🌱 Currently learning Cloud & DevOps<br>💬 Ask me about Laravel, Vue js,Angular Linux, or anything DevOps-related  <br>⚡ Fun fact: I enjoy automating things that save time and reduce human error  <br>📫 How to reach me: [youssefzerzeri34@gmail.com]  <br>
 
 
 # 💻 Tech Stack:
